@@ -1,1 +1,1 @@
-# 6G-Integrated-Communication-Computing-Edge-Networks
+# 6G-Integrated-Communication-Computing
